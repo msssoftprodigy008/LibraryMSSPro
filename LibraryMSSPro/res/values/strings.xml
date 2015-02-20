@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Karan</string>
+    
+    <string name="Create_Account">Account created successfully.</string>
+    <string name="Registration">User registered successfully.</string>
+    <string name="Account_verification">Your account has been verified successfully.</string>
+    <string name="Email_Successfully_Sent">Email has been sent successfully.</string>
+    <string name="Information_Successfully_Saved">Information saved successfully.</string>
+    <string name="Save_to_Gallery_Image">Image successfully saved to gallery.</string>
+    <string name="Twitter">Tweet successfully posted to Twitter.</string>
+    <string name="Facebook_Message_Success">Message successfully posted to Facebook.</string>
+    <string name="Facebook">Checkin successfully posted to Facebook.</string>
+    <string name="Friend_request">Friend request sent successfully.</string>
+    <string name="Friend_request_user">has accepted your friend request.</string>
+    <string name="Authentication_Failure">User authentication failed. Please try again</string>
+    <string name="Login_Failure">User name/Password incorrect.</string>
+    <string name="Search_No_Result">No search results.</string>
+    <string name="Network_Error_connecting_to_server">Error connecting to server.</string>
+    <string name="Network_Error_unable_to_connect_network">Unable to connect to network.</string>
+    <string name="Server_Network_Error">Request cannot be processed right now. Please try again later.</string>
+    <string name="Friend_request_error">[User] has rejected your friend request.</string>
+    <string name="Field_cant_blank">Username (i.e. Field name) can not be left Blank.</string>
+    <string name="Field_alphnumeric_error">Username must contain only alphabets and numbers.</string>
+    <string name="Field_5character_error">Username must be 5-12 character long.</string>
+    <string name="Valid_Email_Error">Please enter valid Email address.</string>
+    <string name="Telephone_Error">Please enter valid telephone number.</string>
+
+    <string name="mobileno_blank">Please enter mobile no.</string>
+    
+
+
+
+
+
+
+
+    
+
+
+
+</resources>
